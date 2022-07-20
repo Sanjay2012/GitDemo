@@ -1,0 +1,11 @@
+public class sumOfNumbers{
+
+public static void main(String[] args){
+System.Out.Println(sumOfNumbers.sum(10));
+	
+}
+
+public static int sum( int a){
+return sum= a*(a+1)/2;
+}
+}
